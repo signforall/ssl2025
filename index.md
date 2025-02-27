@@ -16,11 +16,7 @@ The dataset includes sign language sentences from a variety of signers, capturin
 - **Data Splits**: 
   - **Training Split**:
     - Includes three female signers and eleven male signers.
-    - The total duration of the training split is 28 hours.
-
-  - **Validation Split**:
-    - The validation split contains two signers, one male and one female, with their sentences included but the signers are unseen.
-    - The total duration of this split is 6 hours.
+    - The total duration of the training split is 34 hours.
 
   - **Test Split**:
     - The test split is 7 hours in total, consisting of:
