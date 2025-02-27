@@ -70,18 +70,29 @@ The table below summarizes the data for each split based on the sentences, minut
   <table>
     <thead>
       <tr>
+        <th><strong>Split</strong></th>
         <th><strong>Sentences</strong></th>
         <th><strong>Minutes</strong></th>
         <th><strong>Seen Sentences</strong></th>
         <th><strong>Seen Signers</strong></th>
-        <th><strong># Sentences</strong></th>
+        <th><strong># Samples</strong></th>
         <th><strong># Signers</strong></th>
         <th><strong>Gender</strong></th>
-        <th><strong>Split</strong></th>
       </tr>
     </thead>
     <tbody>
       <tr>
+        <td>Train</td>
+        <td>24,111</td>
+        <td>2,017.82</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>1,900</td>
+        <td>16</td>
+        <td>4F, 12M</td>
+      </tr>
+      <tr>
+        <td>Test 1</td>
         <td>200</td>
         <td>16.65</td>
         <td>No</td>
@@ -89,68 +100,31 @@ The table below summarizes the data for each split based on the sentences, minut
         <td>100</td>
         <td>2</td>
         <td>1F, 1M</td>
-        <td>Test 1</td>
       </tr>
       <tr>
-        <td>1100 (1097)</td>
-        <td>90.10</td>
+        <td>Test 2</td>
+        <td>1,297</td>
+        <td>107.95</td>
         <td>No</td>
         <td>Yes</td>
         <td>100</td>
         <td>11</td>
-        <td>2F, 9M</td>
-        <td>Test 2</td>
+        <td>3F, 10M</td>
       </tr>
       <tr>
-        <td>3800 (3783)</td>
+        <td>Test 3</td>
+        <td>3,783</td>
         <td>337.33</td>
         <td>Yes</td>
         <td>No</td>
-        <td>1900</td>
+        <td>1,900</td>
         <td>2</td>
         <td>1F, 1M</td>
-        <td>Test 3</td>
-      </tr>
-      <tr>
-        <td>4000</td>
-        <td>374</td>
-        <td>Yes</td>
-        <td>Mix</td>
-        <td>2000</td>
-        <td>2</td>
-        <td>1F, 1M</td>
-        <td>valid</td>
-      </tr>
-      <tr>
-        <td>20311</td>
-        <td>1661</td>
-        <td>Yes</td>
-        <td>Yes</td>
-        <td>-</td>
-        <td>14</td>
-        <td>3F, 11M</td>
-        <td>Train</td>
       </tr>
     </tbody>
   </table>
 </body>
 </html>
-
-## Size per Split
-The dataset will be available in the following format:
-  <div class="list-container">
-    <ul>
-      <li><strong>Training:</strong> 24.50 GB</li>
-      <li><strong>Validation:</strong> 5.24 GB</li>
-      <li><strong>Test Total:</strong> 7.66 GB
-        <ul class="sub-list">
-          <li><strong>Test 1:</strong> 0.39 GB</li>
-          <li><strong>Test 2:</strong> 1.31 GB</li>
-          <li><strong>Test 3:</strong> 5.96 GB</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
 
 
 ## Data Access
