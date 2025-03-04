@@ -125,8 +125,8 @@ The table below summarizes the data for each split based on the sentences, minut
 
 
 ## License and Citation
+Please follow the licensing terms of Creative Commons Attribution-NonCommercial (CC BY-NC). When utilizing this dataset in your research, remember to cite the dataset paper once it is published.
 
-Please adhere to the license guidelines provided Creative Commons Attribution-NonCommercial (CC BY-NC). When using this dataset in your research, kindly cite the dataset paper once published.
 <html lang="en">
 <head>
   <meta charset="UTF-8">
