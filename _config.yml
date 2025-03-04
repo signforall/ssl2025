@@ -5,3 +5,4 @@ plugins:
 title: SSL Challenge
 description: Weclome to the challenge page of saudi sign lagnauge
 
+show_downloads: true
