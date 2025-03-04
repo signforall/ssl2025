@@ -2,6 +2,7 @@
 layout: default
 ---
 
+## SSL Dataset
 This dataset is the result of a collaborative effort between King Fahd University of Petroleum and Minerals (KFUPM) and the National Center for Artificial Intelligence (NCAI). It contains sign language data collected from a diverse group of signers, designed to support research and development in the field of sign language recognition and related AI applications.
 
 ## Data Summary
@@ -122,7 +123,6 @@ The table below summarizes the data for each split based on the sentences, minut
 
 ## Data Access
 - **Data Acess Requirement**: This dataset can be accessed by clicking <a href="https://www.kaggle.com/t/c36c02c8809d409b9c6971929e575087"> Kaggle dataset</a>
-
 
 ##  Citation
 When utilizing this dataset in your research, remember to cite the dataset paper once it is published.
