@@ -121,7 +121,7 @@ The table below summarizes the data for each split based on the sentences, minut
 
 
 ## Data Access
-- **Data Acess Requirement**: This dataset can be accessed by clicking here: [Kaggle Dataset]([https://www.kaggle.com/dataset-url](https://www.kaggle.com/competitions/ssl-competetion))
+- **Data Acess Requirement**: This dataset can be accessed by clicking here: [Kaggle Dataset]([https://www.kaggle.com/competitions/ssl-competetion])
 
 
 
