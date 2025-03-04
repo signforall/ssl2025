@@ -2,9 +2,6 @@
 layout: default
 ---
 
-
-## Introduction
-
 This dataset is the result of a collaborative effort between King Fahd University of Petroleum and Minerals (KFUPM) and the National Center for Artificial Intelligence (NCAI). It contains sign language data collected from a diverse group of signers, designed to support research and development in the field of sign language recognition and related AI applications.
 
 ## Data Summary
