@@ -124,9 +124,11 @@ The table below summarizes the data for each split based on the sentences, minut
 - **Data Acess Requirement**: This dataset can be accessed by clicking here:  <a href="https://www.kaggle.com/t/c36c02c8809d409b9c6971929e575087"> Kaggle dataset</a>
 
 
+##  Citation
+When utilizing this dataset in your research, remember to cite the dataset paper once it is published.
 
-## License and Citation
-Please follow the licensing terms of Creative Commons Attribution-NonCommercial (CC BY-NC). When utilizing this dataset in your research, remember to cite the dataset paper once it is published.
+## License
+Please follow the licensing terms of Creative Commons Attribution-NonCommercial (CC BY-NC).
 
 <html lang="en">
 <head>
